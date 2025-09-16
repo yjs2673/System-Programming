@@ -1,4 +1,5 @@
-CSE-4100
+#System Programming
+시스템프로그래밍 CSE-4100
 
 [과목 목표]
 
